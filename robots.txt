@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://syair-jelma.github.io/jelma-2/sitemap.xml
